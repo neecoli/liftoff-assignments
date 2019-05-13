@@ -10,12 +10,13 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-* [Wireframes Overview](https://github.com/neecoli/liftoff-assignments)
-* [Registration](https://github.com/neecoli/liftoff-assignments)
-* [Login](https://github.com/neecoli/liftoff-assignments)
-* [Menu](https://github.com/neecoli/liftoff-assignments)
-* [Save](https://github.com/neecoli/liftoff-assignments)
-* [Share](https://github.com/neecoli/liftoff-assignments)
+* [Wireframes Overview](https://github.com/neecoli/liftoff-assignments/blob/master/P3-Project_Planning/P1020253.JPG)
+* [Registration](https://github.com/neecoli/liftoff-assignments/blob/master/P3-Project_Planning/P1020254.JPG)
+* [Login](https://github.com/neecoli/liftoff-assignments/blob/master/P3-Project_Planning/P1020255.JPG)
+* [Menu](https://github.com/neecoli/liftoff-assignments/blob/master/P3-Project_Planning/P1020256.JPG)
+* [Save](https://github.com/neecoli/liftoff-assignments/blob/master/P3-Project_Planning/P1020257.JPG)
+* [Share](https://github.com/neecoli/liftoff-assignments/blob/master/P3-Project_Planning/P1020258.JPG)
+* [Search](https://github.com/neecoli/liftoff-assignments/blob/master/P3-Project_Planning/P1020259.JPG)
 
 ### Project Tracker
 
@@ -23,4 +24,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[Capstone](https://github.com/neecoli/liftoff-assignments)
